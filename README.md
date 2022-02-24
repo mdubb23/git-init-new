@@ -1,14 +1,16 @@
-# git-init-new
+# Run Buddy, Inc
 
 ## Purpose
-a website that offers fitness training services
+A website that offers fitness training services. 
 
-## Built with
-*HTML
-*CSS
+## Built With
+* HTML
+* CSS
 
 ## Website
 
 
 ## Contribution
-Made with ❤️ by Matthew
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc
