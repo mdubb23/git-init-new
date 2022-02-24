@@ -1,4 +1,4 @@
-# git-init-new
+# Run buddy Inc.
 
 ## Purpose
 a website that offers fitness training services
